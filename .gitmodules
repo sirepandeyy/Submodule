@@ -4,3 +4,6 @@
 [submodule "Entities"]
 	path = Entities
 	url = https://github.com/sirepandeyy/Entities
+[submodule "Dtos"]
+	path = Dtos
+	url = https://github.com/sirepandeyy/Dtos
