@@ -7,3 +7,6 @@
 [submodule "Dtos"]
 	path = Dtos
 	url = https://github.com/sirepandeyy/Dtos
+[submodule "Mapping"]
+	path = Mapping
+	url = https://github.com/sirepandeyy/Mapping
