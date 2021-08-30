@@ -1,3 +1,6 @@
 [submodule "Common"]
 	path = Common
 	url = https://github.com/sirepandeyy/Common
+[submodule "Entities"]
+	path = Entities
+	url = https://github.com/sirepandeyy/Entities
